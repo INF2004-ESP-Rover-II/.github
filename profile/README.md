@@ -31,9 +31,6 @@ Two Raspberry Pi Pico (W) boards, communicating over UART:
   logging. Sends a packed sensor struct to the Robo Pico over UART0.
 - **`dashboard/robot_dashboard.py`** — host-side visualization/control
 
-Repo: `Senior Project` (local path on Jeremy's machine; org repo location TBD
-for the team).
-
 ## 3. Settled Decisions
 
 These are confirmed and should be treated as the current plan, not open
