@@ -63,7 +63,7 @@ Repositories in the org: `integrated-rover-ii` (firmware + dashboard),
 | ToF FRONT / LEFT / RIGHT | The three candidate exits at a junction; obstacle detection while driving (far limit → exit blocked / reroute, very close → emergency stop) |
 | IMU | Heading during localisation and driving between markers |
 | ESP32 camera + laptop ArUco | Marker ID (junction / plain), marker count, position fix at each marker |
-| Ultrasonic x4 | Existing close-range sensing (role to be confirmed) |
+| Ultrasonic x2 | Existing close-range sensing (role to be confirmed) |
 
 ## 3. Settled Decisions
 
