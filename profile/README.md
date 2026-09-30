@@ -11,7 +11,7 @@ Rover II is the upgrade of an existing mecanum-wheel rover, separate from
 INF2004's default graded module project (the line-following car). The base
 rover already drives manually with no orientation sensing. This project adds:
 
-- **Phase 1 – Mapping:** 3D room mapping using distance sensors and a gyroscope
+- **Phase 1 – Mapping:** 2D room mapping using distance sensors and a gyroscope
   for orientation, replacing the current LIDAR + claw setup.
 - **Phase 2 – Navigation:** Autonomous A* pathfinding using the map built in
   Phase 1, plus ArUco-marker localization.
